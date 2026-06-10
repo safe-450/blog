@@ -28,7 +28,7 @@ draft: false
 ---
 
 # 2：睡眠
-
+```
 powercfg /h off
 ```
 ![img](https://raw.gitcode.com/safe-450/img/raw/master/Windows11-Config/Snipaste_2026-06-09_13-56-19.png)
