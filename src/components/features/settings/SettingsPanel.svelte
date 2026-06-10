@@ -370,7 +370,7 @@ $effect(() => {
 				</button>
 			</div>
 			<div class="space-y-1">
-				<button
+				<!-- <button
 					class="w-full btn-regular rounded-md py-2 px-3 flex items-center gap-3 text-left active:scale-95 transition-all relative overflow-hidden"
 					class:opacity-60={wallpaperMode !== WALLPAPER_BANNER}
 					class:bg-(--btn-regular-bg-hover)={wallpaperMode === WALLPAPER_BANNER}
@@ -381,8 +381,8 @@ $effect(() => {
 					{#if wallpaperMode === WALLPAPER_BANNER}
 						<Icon icon="material-symbols:check-circle" class="text-[1rem] shrink-0 text-(--primary)" />
 					{/if}
-				</button>
-				<button
+				</button> -->
+				<!-- <button
 					class="w-full btn-regular rounded-md py-2 px-3 flex items-center gap-3 text-left active:scale-95 transition-all relative overflow-hidden"
 					class:opacity-60={wallpaperMode !== WALLPAPER_FULLSCREEN}
 					class:bg-(--btn-regular-bg-hover)={wallpaperMode === WALLPAPER_FULLSCREEN}
@@ -393,7 +393,7 @@ $effect(() => {
 					{#if wallpaperMode === WALLPAPER_FULLSCREEN}
 						<Icon icon="material-symbols:check-circle" class="text-[1rem] shrink-0 text-(--primary)" />
 					{/if}
-				</button>
+				</button> -->
 				<button
 					class="w-full btn-regular rounded-md py-2 px-3 flex items-center gap-3 text-left active:scale-95 transition-all relative overflow-hidden"
 					class:opacity-60={wallpaperMode !== WALLPAPER_OVERLAY}

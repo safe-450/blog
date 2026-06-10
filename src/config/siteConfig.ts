@@ -94,8 +94,8 @@ export const siteConfig: SiteConfig = {
 
 	// 壁纸模式配置
 	wallpaperMode: {
-		// 默认壁纸模式：banner=顶部横幅，fullscreen=全屏壁纸，none=无壁纸
-		defaultMode: "none",
+		// 默认壁纸模式：banner=顶部横幅，fullscreen=全屏壁纸，overlay=覆盖模式，none=无壁纸
+		defaultMode: "overlay",
 		// 整体布局方案切换按钮显示设置（默认："desktop"）
 		// "off" = 不显示
 		// "mobile" = 仅在移动端显示

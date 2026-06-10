@@ -1,6 +1,10 @@
 
 本网站使用 **Astro** 框架构建，采用 [Mizuki](https://github.com/LyraVoid/Mizuki) 主题。
 
+本网站使用了 祁杰 提供的[Meting API](https://api.qijieya.cn/meting/)。
+
+本网站使用了 夜轻 提供的[随机壁纸服务](https://blog.yeqing.net/acg-api/)。
+
 ::github{repo="LyraVoid/Mizuki"}
 
 ## 🌟 主题特性
