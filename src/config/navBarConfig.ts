@@ -141,7 +141,7 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/LyraVoid/Mizuki",
+					url: "https://github.com/safe-450",
 					external: true, // 外部链接，新标签页打开
 					icon: "fa7-brands:github",
 				},
